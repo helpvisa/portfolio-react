@@ -608,6 +608,10 @@ form button:active {
   cursor: pointer;
 }
 
+.nav-highlighted {
+  color: var(--col-pop);
+}
+
 
 
 /*---------------------------------------------------------------*/

@@ -38,7 +38,7 @@ function App() {
 
   return (
     <div className="body-container">
-      <Nav setCurrentPage={setCurrentPage}></Nav>
+      <Nav currentPage={currentPage} setCurrentPage={setCurrentPage}></Nav>
 
       <div className="content-container">
         {currentPage==='about' && <About setCurrentPage={setCurrentPage}></About>}
