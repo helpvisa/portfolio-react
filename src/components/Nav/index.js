@@ -12,7 +12,7 @@ function Nav({ setCurrentPage }) {
                     <li><a onClick={() => setCurrentPage('sound')}>//**** <br /> sound <br/> designer</a></li> <br />
                     <li><a onClick={() => setCurrentPage('code')}>//*** <br /> developer</a></li> <br />
                     <li><a onClick={() => setCurrentPage('music')}>//** <br /> musician</a></li> <br />
-                    <li><a onClick={() => setCurrentPage('contact')}>//* <br /> contact</a></li>
+                    <li><a onClick={() => setCurrentPage('contact')}>//* <br /> contact <br /> resume</a></li>
                 </ul>
             </nav>
 
@@ -24,7 +24,7 @@ function Nav({ setCurrentPage }) {
                     <li><span className="brighter">//</span></li>
                     <li><a onClick={() => setCurrentPage('music')}> mus </a></li>
                     <li><span className="brighter">//</span></li>
-                    <li><a onClick={() => setCurrentPage('contact')}> contact </a></li>
+                    <li><a onClick={() => setCurrentPage('contact')}> contact & resume </a></li>
                 </ul>
             </nav>
         </sidebar>

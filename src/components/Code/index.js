@@ -18,7 +18,7 @@ function Code() {
             <section className="code" id="code">
                 <div className="section-header">
                     <div className="section-divider-left"></div>
-                    <h2><span className="brighter"><span className="no-italic">// </span>co</span>de <span className="brighter"><span className="no-italic">//</span></span></h2>
+                    <h2><span className="brighter"><span className="no-italic">//</span>co</span>de <span className="brighter"><span className="no-italic">//</span></span></h2>
                     <div className="section-divider-right"></div>
                 </div>
                 <div className="card-container">

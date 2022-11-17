@@ -9,6 +9,7 @@ import Sound from './components/Sound';
 import Code from './components/Code';
 import Music from './components/Music';
 import Contact from './components/Contact';
+import Footer from './components/Footer';
 
 // render the main screen
 function App() {
@@ -26,6 +27,8 @@ function App() {
         {currentPage==='music' && <Music></Music>}
         {currentPage==='contact' && <Contact></Contact>}
       </div>
+
+      <Footer></Footer>
     </div>
   );
 }

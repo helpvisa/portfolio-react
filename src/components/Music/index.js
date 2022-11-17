@@ -5,7 +5,7 @@ function Music() {
         <section className="music" id="music">
             <div className="section-header">
                 <div className="section-divider-left"></div>
-                <h2><span className="brighter"><span className="no-italic">// </span>mu</span>sic <span className="brighter"><span className="no-italic">//</span></span></h2>
+                <h2><span className="brighter"><span className="no-italic">//</span>mu</span>sic <span className="brighter"><span className="no-italic">//</span></span></h2>
                 <div className="section-divider-right"></div>
             </div>
 
