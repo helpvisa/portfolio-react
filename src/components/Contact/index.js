@@ -53,7 +53,7 @@ function Contact() {
             {/* inputs for contact section: name, email, message */}
             <div class="form-container">
                 {/* resume download link goes here */}
-                <a className="resume" href="../../assets/BrackenburyDaniel_Resume.pdf" download><p className="resume-text">Download Resume</p></a>
+                <a className="resume" href="https://drive.google.com/uc?export=download&id=1aa65f5F-yDFX1EDJ_oJFZhNQ5ci57bdw"><p className="resume-text">Download Resume</p></a>
                 <form id="contact-form" onSubmit={handleSubmit}>
                     <div>
                         <label htmlFor="name">Name:</label>
