@@ -1,5 +1,5 @@
 // import React and useState, useEffect
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 // import our CSS
 import './index.css';
 // import our components
@@ -15,6 +15,26 @@ import Footer from './components/Footer';
 function App() {
   // manage page state
   const [currentPage, setCurrentPage] = useState('about')
+
+  // change title based on selected page
+  useEffect(() => {
+    switch (currentPage) {
+        case 'code':
+            document.title = "// Daniel Brackenbury // Code //";
+            break;
+        case 'sound':
+            document.title = "// Daniel Brackenbury // Sound //";
+            break;
+        case 'music':
+            document.title = "// Daniel Brackenbury // Music //";
+            break;
+        case 'contact':
+            document.title = "// Daniel Brackenbury // Contact //";
+            break;
+        default:
+            document.title = "// Daniel Brackenbury //";
+    }
+  }, [currentPage]);
 
   return (
     <div className="body-container">

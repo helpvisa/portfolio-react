@@ -73,6 +73,8 @@ function Contact() {
                     <button type="submit">Contact Me</button>
                 </form>
             </div>
+
+            {/* resume download link goes here */}
         </div>
     );
 }
