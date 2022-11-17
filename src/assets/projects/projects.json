@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Simple C# Raytracer",
+        "description": "Developed using the open-source MonoGame framework.",
+        "link": "https://github.com/helpvisa/simple_raytracer",
+        "link_desc": "Link to GitHub repository↝",
+        "image": "raytracer.jpg",
+        "image_alt": "Raytraced rendering of multiple lightly-coloured reflective spheres on a light gray background."
+    },
+    {
+        "name": "Undercurrents",
+        "description": "Find new music similar to the artists you already know and love.",
+        "link": "https://helpvisa.github.io/undercurrents/",
+        "link_desc": "Link to application↝",
+        "image": "undercurrents.jpg",
+        "image_alt": "Preview of the Undercurrents web applcation."
+    },
+    {
+        "name": "Opinionated",
+        "description": "Share your thoughts with the world.",
+        "link": "https://github.com/helpvisa/opinionated/tree/main",
+        "link_desc": "Link to application↝",
+        "image": "opinionated.png",
+        "image_alt": "Preview of the Undercurrents web applcation."
+    },
+    {
+        "name": "Pico8",
+        "description": "Small visual projects / games created with Lexaloffe's Pico8 engine.",
+        "link": "https://help-visa.itch.io/",
+        "link_desc": "Link to itch.io profile↝",
+        "image": "alien_trees_0.gif",
+        "image_alt": ""
+    },
+    {
+        "name": "Unity Assets and Plug-Ins",
+        "description": "Plug-and-play assets for use in any Unity project.",
+        "link": "https://github.com/helpvisa/URP_PlanarReflections",
+        "link_desc": "GitHub repository available here↝",
+        "image": "reflection.png",
+        "image_alt": ""
+    }
+]
