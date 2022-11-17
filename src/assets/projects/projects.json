@@ -29,7 +29,15 @@
         "link": "https://help-visa.itch.io/",
         "link_desc": "Link to itch.io profile↝",
         "image": "alien_trees_0.gif",
-        "image_alt": ""
+        "image_alt": "Picture of a pixelated tree swaying in the breeze."
+    },
+    {
+        "name": "Just Another Text Editor",
+        "description": "An online, single-page PWA text editor with JavaScript syntax highlighting.",
+        "link": "https://helpvisa-jate.herokuapp.com/",
+        "link_desc": "Link to application↝",
+        "image": "jate.jpg",
+        "image_alt": "A preview of the JATE web app."
     },
     {
         "name": "Unity Assets and Plug-Ins",
@@ -37,6 +45,6 @@
         "link": "https://github.com/helpvisa/URP_PlanarReflections",
         "link_desc": "GitHub repository available here↝",
         "image": "reflection.png",
-        "image_alt": ""
+        "image_alt": "A preview of custom planar reflection mapping rendered in the Unity game engine."
     }
 ]

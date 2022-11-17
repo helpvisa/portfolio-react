@@ -12,8 +12,8 @@ function Footer() {
                 <div className="card">
                     <div className="description">
                         <p>github</p>
-                        <img src={github} />
                     </div>
+                    <img src={github} />
                 </div>
             </a>
 
@@ -21,8 +21,8 @@ function Footer() {
                 <div className="card">
                     <div className="description">
                         <p>linkedin</p>
-                        <img src={linkedin} />
                     </div>
+                    <img src={linkedin} />
                 </div>
             </a>
 
@@ -30,8 +30,8 @@ function Footer() {
                 <div className="card">
                     <div className="description">
                         <p>itch.io</p>
-                        <img src={itchio} />
                     </div>
+                    <img src={itchio} />
                 </div>
             </a>
         </footer>
