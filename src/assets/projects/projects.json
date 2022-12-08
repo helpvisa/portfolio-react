@@ -32,12 +32,12 @@
         "image_alt": "Picture of a pixelated tree swaying in the breeze."
     },
     {
-        "name": "Just Another Text Editor",
-        "description": "An online, single-page PWA text editor with JavaScript syntax highlighting.",
-        "link": "https://helpvisa-jate.herokuapp.com/",
+        "name": "The Serf's Market",
+        "description": "Take part in the official 'Peasant Economy.'",
+        "link": "https://serf-market.herokuapp.com/",
         "link_desc": "Link to application↝",
-        "image": "jate.jpg",
-        "image_alt": "A preview of the JATE web app."
+        "image": "serf-market.png",
+        "image_alt": "A preview of the Serf Market web app."
     },
     {
         "name": "Unity Assets and Plug-Ins",
