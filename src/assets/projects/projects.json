@@ -34,7 +34,7 @@
     {
         "name": "The Serf's Market",
         "description": "Take part in the official 'Peasant Economy.'",
-        "link": "https://serf-market.herokuapp.com/",
+        "link": "https://serfs-market.herokuapp.com/",
         "link_desc": "Link to application↝",
         "image": "serf-market.png",
         "image_alt": "A preview of the Serf Market web app."
