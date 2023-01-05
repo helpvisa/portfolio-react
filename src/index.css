@@ -135,7 +135,7 @@ header .bg {
   border-style: dashed;
   border-color: var(--col-bold);
   box-shadow: 0px 0px 100px rgba(65,57,58,0.6);
-  margin: 6vw;
+  margin: 6%;
 }
 
 .headshot img:hover {
