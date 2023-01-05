@@ -121,15 +121,21 @@ header .bg {
   filter: blur(15px);
 }
 
+.headshot {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .headshot img {
-  height: 60vh;
-  flex: 0 1 auto;
+  width: 88%;
+  flex: 0 2 auto;
   border-radius: 50%;
   border-width: 5px;
   border-style: dashed;
   border-color: var(--col-bold);
   box-shadow: 0px 0px 100px rgba(65,57,58,0.6);
-  margin: 30px;
+  margin: 6vw;
 }
 
 .headshot img:hover {
