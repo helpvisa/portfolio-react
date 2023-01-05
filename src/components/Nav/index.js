@@ -9,8 +9,8 @@ function Nav({ currentPage, setCurrentPage }) {
             <nav className="side">
                 <ul>
                     <br />
-                    <li><a className={currentPage==="sound" && 'nav-highlighted'} onClick={() => setCurrentPage('sound')}>//**** <br /> sound <br/> designer</a></li> <br />
                     <li><a className={currentPage==="code" && 'nav-highlighted'} onClick={() => setCurrentPage('code')}>//*** <br /> developer</a></li> <br />
+                    <li><a className={currentPage==="sound" && 'nav-highlighted'} onClick={() => setCurrentPage('sound')}>//**** <br /> sound <br/> designer</a></li> <br />
                     <li><a className={currentPage==="music" && 'nav-highlighted'} onClick={() => setCurrentPage('music')}>//** <br /> musician</a></li> <br />
                     <li><a className={currentPage==="contact" && 'nav-highlighted'} onClick={() => setCurrentPage('contact')}>//* <br /> resume</a></li>
                 </ul>
@@ -18,9 +18,9 @@ function Nav({ currentPage, setCurrentPage }) {
 
             <nav className="top">
                 <ul>
-                    <li><a className={currentPage==="sound" && 'nav-highlighted'} onClick={() => setCurrentPage('sound')}> sound </a></li>
-                    <li><span className="brighter">//</span></li>
                     <li><a className={currentPage==="code" && 'nav-highlighted'} onClick={() => setCurrentPage('code')}> dev </a></li>
+                    <li><span className="brighter">//</span></li>
+                    <li><a className={currentPage==="sound" && 'nav-highlighted'} onClick={() => setCurrentPage('sound')}> sound </a></li>
                     <li><span className="brighter">//</span></li>
                     <li><a className={currentPage==="music" && 'nav-highlighted'} onClick={() => setCurrentPage('music')}> mus </a></li>
                     <li><span className="brighter">//</span></li>
