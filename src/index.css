@@ -129,6 +129,7 @@ header .bg {
 
 .headshot img {
   width: 88%;
+  max-width: 60vh;
   flex: 0 2 auto;
   border-radius: 50%;
   border-width: 5px;
