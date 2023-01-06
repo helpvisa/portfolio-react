@@ -4,7 +4,7 @@ import React, { useState } from 'react';
 import Form from './Form';
 
 // import our resume document for download
-// todo
+import Resume from '../../assets/BrackenburyDan_Resume2023.pdf';
 
 function Contact() {
     return (
@@ -22,7 +22,7 @@ function Contact() {
             {/* comment out the contact form */}
             <div class="form-container">
                 {/* resume download link goes here */}
-                <a className="resume" href="https://drive.google.com/uc?export=download&id=1aa65f5F-yDFX1EDJ_oJFZhNQ5ci57bdw"><p className="resume-text">Download Resume</p></a>
+                <a className="resume" href={Resume}><p className="resume-text">Download Resume</p></a>
                 {/* <Form></Form> */}
             </div>
         </div>
