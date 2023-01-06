@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.21e21984.css",
-    "main.js": "/portfolio-react/static/js/main.5bbf32e8.js",
+    "main.js": "/portfolio-react/static/js/main.0718774e.js",
     "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
     "static/media/Famous.mp4": "/portfolio-react/static/media/Famous.7a250c3b12f5eeae96fc.mp4",
     "static/media/CDL_HumanNature.mp4": "/portfolio-react/static/media/CDL_HumanNature.8681c210aaca284d7b4f.mp4",
@@ -10,6 +10,7 @@
     "static/media/alien_trees_0.gif": "/portfolio-react/static/media/alien_trees_0.750cc2b00b91e6485589.gif",
     "static/media/resume.jpg": "/portfolio-react/static/media/resume.ef9588fa2622b0de4221.jpg",
     "static/media/undercurrents.jpg": "/portfolio-react/static/media/undercurrents.b0407d315d94d2082525.jpg",
+    "static/media/BrackenburyDan_Resume2023.pdf": "/portfolio-react/static/media/BrackenburyDan_Resume2023.ffde73a290f70ba77a4f.pdf",
     "static/media/raytracer.jpg": "/portfolio-react/static/media/raytracer.31264963a9e13d42ddd6.jpg",
     "static/media/serf-market.png": "/portfolio-react/static/media/serf-market.fb9a9bff2fe502c76eb5.png",
     "static/media/header-bg.png": "/portfolio-react/static/media/header-bg.e966c22e687133acc16f.png",
@@ -18,11 +19,11 @@
     "static/media/linkedin.png": "/portfolio-react/static/media/linkedin.c24b80ff8edbea7e442e.png",
     "index.html": "/portfolio-react/index.html",
     "main.21e21984.css.map": "/portfolio-react/static/css/main.21e21984.css.map",
-    "main.5bbf32e8.js.map": "/portfolio-react/static/js/main.5bbf32e8.js.map",
+    "main.0718774e.js.map": "/portfolio-react/static/js/main.0718774e.js.map",
     "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21e21984.css",
-    "static/js/main.5bbf32e8.js"
+    "static/js/main.0718774e.js"
   ]
 }
