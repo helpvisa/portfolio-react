@@ -1,15 +1,23 @@
 [
     {
-        "name": "Simple C# Raytracer",
-        "description": "Developed using the open-source MonoGame framework.",
-        "link": "https://github.com/helpvisa/simple_raytracer",
+        "name": "JS Tracer",
+        "description": "Web-based raytracing engine created with JavaScript.",
+        "link": "https://github.com/helpvisa/js-tracer",
         "link_desc": "Link to GitHub repository↝",
         "image": "raytracer.jpg",
-        "image_alt": "Raytraced rendering of multiple lightly-coloured reflective spheres on a light gray background."
+        "image_alt": "Raytraced rendering of a cracked tile floor texture."
+    },
+    {
+        "name": "The Serf's Market",
+        "description": "Online stock simulation created with React and Mongoose.",
+        "link": "https://serfs-market.herokuapp.com/",
+        "link_desc": "Link to application↝",
+        "image": "serf-market.png",
+        "image_alt": "A preview of the Serf Market web app."
     },
     {
         "name": "Undercurrents",
-        "description": "Find new music similar to the artists you already know and love.",
+        "description": "Find new music similar to the artists you already know and love. Created using JavaScript and HTML.",
         "link": "https://helpvisa.github.io/undercurrents/",
         "link_desc": "Link to application↝",
         "image": "undercurrents.jpg",
@@ -17,9 +25,9 @@
     },
     {
         "name": "Opinionated",
-        "description": "Share your thoughts with the world.",
-        "link": "https://github.com/helpvisa/opinionated/tree/main",
-        "link_desc": "Link to application↝",
+        "description": "Share your thoughts with the world; an opinion forum created using Handlebars and Sequelize.",
+        "link": "https://github.com/helpvisa/opinionated/",
+        "link_desc": "Link to GitHub repository↝",
         "image": "opinionated.png",
         "image_alt": "Preview of the Undercurrents web applcation."
     },
@@ -30,21 +38,5 @@
         "link_desc": "Link to itch.io profile↝",
         "image": "alien_trees_0.gif",
         "image_alt": "Picture of a pixelated tree swaying in the breeze."
-    },
-    {
-        "name": "The Serf's Market",
-        "description": "Take part in the official 'Peasant Economy.'",
-        "link": "https://serfs-market.herokuapp.com/",
-        "link_desc": "Link to application↝",
-        "image": "serf-market.png",
-        "image_alt": "A preview of the Serf Market web app."
-    },
-    {
-        "name": "Unity Assets and Plug-Ins",
-        "description": "Plug-and-play assets for use in any Unity project.",
-        "link": "https://github.com/helpvisa/URP_PlanarReflections",
-        "link_desc": "GitHub repository available here↝",
-        "image": "reflection.png",
-        "image_alt": "A preview of custom planar reflection mapping rendered in the Unity game engine."
     }
 ]

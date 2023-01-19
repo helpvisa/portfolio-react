@@ -27,14 +27,14 @@ function Footer() {
                 </div>
             </a>
 
-            <a href="https://help-visa.itch.io/" target="_blank">
+            {/* <a href="https://help-visa.itch.io/" target="_blank">
                 <div className="card">
                     <div className="description">
                         <p style={{fontSize: '3vh'}}>itch.io</p>
                     </div>
                     <img src={itchio} />
                 </div>
-            </a>
+            </a> */}
         </footer>
         </div>
     );
