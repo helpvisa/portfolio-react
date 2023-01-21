@@ -36,10 +36,19 @@ function Contact() {
                     </div>
                     <div className="card">
                         <div className="description only-when-big">
-                            <h3>Toronto Metropolitan University School of Image Arts</h3>
+                            <h3>Toronto Metropolitan University</h3>
                             <h4>2015 - 2020</h4>
                             <p>
-                                BFA with specialization in sound design and audio production;
+                                BFA in the Image Arts program with specialization in sound design and audio production;
+                                years of experience freelancing in film and working collaboratively
+                                with large and diverse teams of creators.
+                            </p>
+                        </div>
+                        <div className="description only-when-small">
+                            <h3>Toronto Metropolitan University</h3>
+                            <h4>2015 - 2020</h4>
+                            <p>
+                                BFA in the Image Arts program with specialization in sound design and audio production;
                                 years of experience freelancing in film and working collaboratively
                                 with large and diverse teams of creators.
                             </p>
@@ -47,7 +56,10 @@ function Contact() {
                     </div>
                 </section>
                 {/* resume download link goes here */}
-                <a className="resume" href={Resume}><p className="resume-text">Download Resume</p></a>
+                <div className="resume-container">
+                    <a className="resume" href={Resume}><p className="resume-text">Download Resume</p></a>
+                    <a href="mailto:daniel.brackenbury@gmail.com" target="_blank">daniel.brackenbury@gmail.com</a>
+                </div>
                 {/* <Form></Form> */}
             </div>
         </div>

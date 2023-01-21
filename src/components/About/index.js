@@ -13,10 +13,12 @@ function About({ setCurrentPage }) {
             <section className="about-me">
                 <h1>\\ about \\</h1>
                 <p>
-                    Professional web developer with a passion for coding and technology, former sound designer / recording engineer.
-                    Experienced in JavaScript, SQL, MongoDB, and React.
+                    Avid coder with a passion for technology seeking a career in web development and design.
+                    Former sound designer / recording engineer who's spent years working with teams of other creatives
+                    to create a broad spectrum of digital content.
+                    Experienced in JavaScript, SQL, MongoDB, React, and C#.
                 </p>
-                <a onClick={() => setCurrentPage('contact')}>Contact Me</a>
+                <a onClick={() => setCurrentPage('contact')}>daniel.brackenbury@gmail.com</a>
             </section>
         </header>
     );
