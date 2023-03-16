@@ -475,6 +475,10 @@ section {
   filter: contrast(0.5);
 }
 
+.form-container .resume-container .contact-email {
+  font-size: 4vh;
+}
+
 form {
   width: auto;
   flex-direction: column;
@@ -520,7 +524,8 @@ form label {
   text-align: center;
   text-decoration: none;
   padding: 10px 20px;
-  margin: 50% 50px;
+  margin: 50% 0px;
+  width: 100%;
 }
 
 .resume:hover {
@@ -705,6 +710,10 @@ form button:active {
 
   .resume-text {
     font-size: 6vw;
+  }
+
+  .form-container .resume-container .contact-email {
+    font-size: small;
   }
 
   /* headshot changes */

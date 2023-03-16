@@ -16,6 +16,14 @@
         "image_alt": "A preview of the Serf's Market web app."
     },
     {
+        "name": "Car Playground",
+        "description": "Semi-realistic vehicle simulation made with Webpack 5 and Three.js / Cannon-es.",
+        "link": "https://helpvisa.github.io/car-playground/",
+        "link_desc": "Link to application↝",
+        "image": "car-playground.jpg",
+        "image_alt": "A preview of car playground app."
+    },
+    {
         "name": "Undercurrents",
         "description": "Tired of the same old songs? Find new music, similar to the artists you already love. A proof of concept created using JavaScript and the YouTube API.",
         "link": "https://helpvisa.github.io/undercurrents/",

@@ -26,12 +26,12 @@ function Contact() {
                         <div className="description only-when-big">
                             <h3>UofT SCS Coding Bootcamp</h3>
                             <h4>June - December 2022</h4>
-                            <p>6-month intensive bootcamp directed at learning the web and gaining fluency with the MERN stack.</p>
+                            <p>6-month intensive directed at learning the web and gaining fluency with the MERN stack.</p>
                         </div>
                         <div className="description only-when-small">
                             <h3>University of Toronto SCS Coding Bootcamp</h3>
                             <h4>June - December 2022</h4>
-                            <p>6-month intensive bootcamp directed at learning the web and gaining fluency with the MERN stack.</p>
+                            <p>6-month intensive directed at learning the web and gaining fluency with the MERN stack.</p>
                         </div>
                     </div>
                     <div className="card">
@@ -58,7 +58,7 @@ function Contact() {
                 {/* resume download link goes here */}
                 <div className="resume-container">
                     <a className="resume" href={Resume}><p className="resume-text">Download Resume</p></a>
-                    <a href="mailto:daniel.brackenbury@gmail.com" target="_blank">daniel.brackenbury@gmail.com</a>
+                    <a className="contact-email" href="mailto:daniel.brackenbury@gmail.com" target="_blank">daniel.brackenbury@gmail.com</a>
                 </div>
                 {/* <Form></Form> */}
             </div>
