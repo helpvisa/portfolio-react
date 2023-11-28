@@ -4,7 +4,7 @@ import React, { useState } from 'react';
 import Form from './Form';
 
 // import our resume document for download
-import Resume from '../../assets/BrackenburyDan_Resume2023.pdf';
+import Resume from '../../assets/DanielBrackenbury_Resume.docx';
 
 function Contact() {
     return (
